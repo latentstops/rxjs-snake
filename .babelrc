@@ -1,0 +1,4 @@
+{
+  "plugins": [ "transform-function-bind" ],
+  "presets": [  "env", "stage-2" ]
+}
