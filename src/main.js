@@ -62,7 +62,4 @@ game$.subscribe( {
     complete: console.log
 } );
 
-window.ctx = ctx;
-window.render = render;
-window.game$ = game$;
 

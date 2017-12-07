@@ -14,5 +14,3 @@ export const DIRECTIONS = {
     39: { x:  1, y:  0 },
     40: { x:  0, y:  1 },
 };
-
-window.SNAKE_LENGTH = SNAKE_LENGTH;

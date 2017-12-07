@@ -57,7 +57,7 @@ export function wrapBounds( point ) {
 }
 
 export function getSegmentColor( index ) {
-    const color = `#84f328`;
+    const color = `#366bf3`;
     return index === 0 ? 'black' : color;
 }
 
